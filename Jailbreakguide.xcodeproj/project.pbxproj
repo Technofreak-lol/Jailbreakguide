@@ -13,9 +13,6 @@
 		910A7348170B4761002A51E2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 910A7346170B4761002A51E2 /* InfoPlist.strings */; };
 		910A734A170B4761002A51E2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A7349170B4761002A51E2 /* main.m */; };
 		910A734E170B4761002A51E2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A734D170B4761002A51E2 /* AppDelegate.m */; };
-		910A7350170B4761002A51E2 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A734F170B4761002A51E2 /* Default.png */; };
-		910A7352170B4761002A51E2 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7351170B4761002A51E2 /* Default@2x.png */; };
-		910A7354170B4761002A51E2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7353170B4761002A51E2 /* Default-568h@2x.png */; };
 		910A7357170B4761002A51E2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 910A7355170B4761002A51E2 /* MainStoryboard.storyboard */; };
 		910A735A170B4761002A51E2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A7359170B4761002A51E2 /* ViewController.m */; };
 		910A7362170B4762002A51E2 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 910A7361170B4762002A51E2 /* SenTestingKit.framework */; };
@@ -23,6 +20,30 @@
 		910A7364170B4762002A51E2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 910A733F170B4761002A51E2 /* Foundation.framework */; };
 		910A736C170B4762002A51E2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 910A736A170B4762002A51E2 /* InfoPlist.strings */; };
 		910A736F170B4762002A51E2 /* JailbreakguideTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A736E170B4762002A51E2 /* JailbreakguideTests.m */; };
+		910A737E170B49F1002A51E2 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A737C170B49F1002A51E2 /* ViewController2.m */; };
+		910A737F170B49F1002A51E2 /* ViewController2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A737D170B49F1002A51E2 /* ViewController2.xib */; };
+		910A7381170B4A90002A51E2 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7380170B4A90002A51E2 /* logo.png */; };
+		910A7383170B66A8002A51E2 /* icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7382170B66A8002A51E2 /* icon2.png */; };
+		910A7385170B66AC002A51E2 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7384170B66AC002A51E2 /* icon.png */; };
+		910A7391170B757D002A51E2 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A738F170B757D002A51E2 /* ViewController3.m */; };
+		910A7392170B757D002A51E2 /* ViewController3.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A7390170B757D002A51E2 /* ViewController3.xib */; };
+		910A7396170B7ACD002A51E2 /* Alexander.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A7394170B7ACD002A51E2 /* Alexander.m */; };
+		910A7397170B7ACD002A51E2 /* Alexander.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A7395170B7ACD002A51E2 /* Alexander.xib */; };
+		910A73A3170B7E33002A51E2 /* Nikolai.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A73A1170B7E33002A51E2 /* Nikolai.m */; };
+		910A73A4170B7E33002A51E2 /* Nikolai.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A73A2170B7E33002A51E2 /* Nikolai.xib */; };
+		910A73AD170B7F56002A51E2 /* Carsten.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A73AB170B7F56002A51E2 /* Carsten.m */; };
+		910A73AE170B7F56002A51E2 /* Carsten.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A73AC170B7F56002A51E2 /* Carsten.xib */; };
+		910A73B2170B7F67002A51E2 /* Martin.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A73B0170B7F66002A51E2 /* Martin.m */; };
+		910A73B3170B7F67002A51E2 /* Martin.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A73B1170B7F67002A51E2 /* Martin.xib */; };
+		910A73B7170B7F83002A51E2 /* Rene.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A73B5170B7F83002A51E2 /* Rene.m */; };
+		910A73B8170B7F83002A51E2 /* Rene.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A73B6170B7F83002A51E2 /* Rene.xib */; };
+		910A73BC170B7F8F002A51E2 /* Pascal.m in Sources */ = {isa = PBXBuildFile; fileRef = 910A73BA170B7F8E002A51E2 /* Pascal.m */; };
+		910A73BD170B7F8F002A51E2 /* Pascal.xib in Resources */ = {isa = PBXBuildFile; fileRef = 910A73BB170B7F8F002A51E2 /* Pascal.xib */; };
+		914B751D170C7A7000BD07E0 /* Moritz.m in Sources */ = {isa = PBXBuildFile; fileRef = 914B751B170C7A7000BD07E0 /* Moritz.m */; };
+		914B751E170C7A7000BD07E0 /* Moritz.xib in Resources */ = {isa = PBXBuildFile; fileRef = 914B751C170C7A7000BD07E0 /* Moritz.xib */; };
+		919589A7170CCDC900C5BDA7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7386170B6728002A51E2 /* Default-568h@2x.png */; };
+		919589A8170CCDD000C5BDA7 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A7388170B672C002A51E2 /* Default@2x.png */; };
+		919589A9170CCDD800C5BDA7 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 910A738A170B672E002A51E2 /* Default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +79,39 @@
 		910A736B170B4762002A51E2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		910A736D170B4762002A51E2 /* JailbreakguideTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JailbreakguideTests.h; sourceTree = "<group>"; };
 		910A736E170B4762002A51E2 /* JailbreakguideTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JailbreakguideTests.m; sourceTree = "<group>"; };
+		910A737B170B49F1002A51E2 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		910A737C170B49F1002A51E2 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		910A737D170B49F1002A51E2 /* ViewController2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController2.xib; sourceTree = "<group>"; };
+		910A7380170B4A90002A51E2 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../Downloads/logo.png; sourceTree = "<group>"; };
+		910A7382170B66A8002A51E2 /* icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon2.png; sourceTree = "<group>"; };
+		910A7384170B66AC002A51E2 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		910A7386170B6728002A51E2 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		910A7388170B672C002A51E2 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		910A738A170B672E002A51E2 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		910A738E170B757D002A51E2 /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		910A738F170B757D002A51E2 /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
+		910A7390170B757D002A51E2 /* ViewController3.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController3.xib; sourceTree = "<group>"; };
+		910A7393170B7ACD002A51E2 /* Alexander.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Alexander.h; sourceTree = "<group>"; };
+		910A7394170B7ACD002A51E2 /* Alexander.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Alexander.m; sourceTree = "<group>"; };
+		910A7395170B7ACD002A51E2 /* Alexander.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Alexander.xib; sourceTree = "<group>"; };
+		910A73A0170B7E33002A51E2 /* Nikolai.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nikolai.h; sourceTree = "<group>"; };
+		910A73A1170B7E33002A51E2 /* Nikolai.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nikolai.m; sourceTree = "<group>"; };
+		910A73A2170B7E33002A51E2 /* Nikolai.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Nikolai.xib; sourceTree = "<group>"; };
+		910A73AA170B7F56002A51E2 /* Carsten.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Carsten.h; sourceTree = "<group>"; };
+		910A73AB170B7F56002A51E2 /* Carsten.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Carsten.m; sourceTree = "<group>"; };
+		910A73AC170B7F56002A51E2 /* Carsten.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Carsten.xib; sourceTree = "<group>"; };
+		910A73AF170B7F66002A51E2 /* Martin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Martin.h; sourceTree = "<group>"; };
+		910A73B0170B7F66002A51E2 /* Martin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Martin.m; sourceTree = "<group>"; };
+		910A73B1170B7F67002A51E2 /* Martin.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Martin.xib; sourceTree = "<group>"; };
+		910A73B4170B7F83002A51E2 /* Rene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rene.h; sourceTree = "<group>"; };
+		910A73B5170B7F83002A51E2 /* Rene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Rene.m; sourceTree = "<group>"; };
+		910A73B6170B7F83002A51E2 /* Rene.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Rene.xib; sourceTree = "<group>"; };
+		910A73B9170B7F8E002A51E2 /* Pascal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pascal.h; sourceTree = "<group>"; };
+		910A73BA170B7F8E002A51E2 /* Pascal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pascal.m; sourceTree = "<group>"; };
+		910A73BB170B7F8F002A51E2 /* Pascal.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Pascal.xib; sourceTree = "<group>"; };
+		914B751A170C7A7000BD07E0 /* Moritz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Moritz.h; sourceTree = "<group>"; };
+		914B751B170C7A7000BD07E0 /* Moritz.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Moritz.m; sourceTree = "<group>"; };
+		914B751C170C7A7000BD07E0 /* Moritz.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Moritz.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +176,9 @@
 				910A7355170B4761002A51E2 /* MainStoryboard.storyboard */,
 				910A7358170B4761002A51E2 /* ViewController.h */,
 				910A7359170B4761002A51E2 /* ViewController.m */,
+				910A7399170B7AE9002A51E2 /* Team */,
+				910A738D170B69BD002A51E2 /* Info */,
+				910A738C170B69A7002A51E2 /* Images */,
 				910A7344170B4761002A51E2 /* Supporting Files */,
 			);
 			path = Jailbreakguide;
@@ -158,6 +215,119 @@
 				910A736A170B4762002A51E2 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		910A738C170B69A7002A51E2 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				910A7380170B4A90002A51E2 /* logo.png */,
+				910A738A170B672E002A51E2 /* Default.png */,
+				910A7388170B672C002A51E2 /* Default@2x.png */,
+				910A7386170B6728002A51E2 /* Default-568h@2x.png */,
+				910A7384170B66AC002A51E2 /* icon.png */,
+				910A7382170B66A8002A51E2 /* icon2.png */,
+			);
+			name = Images;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		910A738D170B69BD002A51E2 /* Info */ = {
+			isa = PBXGroup;
+			children = (
+				910A737B170B49F1002A51E2 /* ViewController2.h */,
+				910A737C170B49F1002A51E2 /* ViewController2.m */,
+				910A737D170B49F1002A51E2 /* ViewController2.xib */,
+			);
+			name = Info;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		910A7398170B7AD4002A51E2 /* Alexander */ = {
+			isa = PBXGroup;
+			children = (
+				910A7395170B7ACD002A51E2 /* Alexander.xib */,
+				910A7393170B7ACD002A51E2 /* Alexander.h */,
+				910A7394170B7ACD002A51E2 /* Alexander.m */,
+			);
+			name = Alexander;
+			sourceTree = "<group>";
+		};
+		910A7399170B7AE9002A51E2 /* Team */ = {
+			isa = PBXGroup;
+			children = (
+				910A738E170B757D002A51E2 /* ViewController3.h */,
+				910A738F170B757D002A51E2 /* ViewController3.m */,
+				910A7390170B757D002A51E2 /* ViewController3.xib */,
+				910A7398170B7AD4002A51E2 /* Alexander */,
+				910A739A170B7B01002A51E2 /* Nikolai */,
+				910A739C170B7B10002A51E2 /* Carsten */,
+				910A739D170B7B16002A51E2 /* Martin */,
+				910A739E170B7B1B002A51E2 /* Rene */,
+				910A739F170B7B21002A51E2 /* Pascal */,
+				914B7519170C7A3C00BD07E0 /* Moritz */,
+			);
+			name = Team;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		910A739A170B7B01002A51E2 /* Nikolai */ = {
+			isa = PBXGroup;
+			children = (
+				910A73A0170B7E33002A51E2 /* Nikolai.h */,
+				910A73A1170B7E33002A51E2 /* Nikolai.m */,
+				910A73A2170B7E33002A51E2 /* Nikolai.xib */,
+			);
+			name = Nikolai;
+			sourceTree = "<group>";
+		};
+		910A739C170B7B10002A51E2 /* Carsten */ = {
+			isa = PBXGroup;
+			children = (
+				910A73AA170B7F56002A51E2 /* Carsten.h */,
+				910A73AB170B7F56002A51E2 /* Carsten.m */,
+				910A73AC170B7F56002A51E2 /* Carsten.xib */,
+			);
+			name = Carsten;
+			sourceTree = "<group>";
+		};
+		910A739D170B7B16002A51E2 /* Martin */ = {
+			isa = PBXGroup;
+			children = (
+				910A73AF170B7F66002A51E2 /* Martin.h */,
+				910A73B0170B7F66002A51E2 /* Martin.m */,
+				910A73B1170B7F67002A51E2 /* Martin.xib */,
+			);
+			name = Martin;
+			sourceTree = "<group>";
+		};
+		910A739E170B7B1B002A51E2 /* Rene */ = {
+			isa = PBXGroup;
+			children = (
+				910A73B4170B7F83002A51E2 /* Rene.h */,
+				910A73B5170B7F83002A51E2 /* Rene.m */,
+				910A73B6170B7F83002A51E2 /* Rene.xib */,
+			);
+			name = Rene;
+			sourceTree = "<group>";
+		};
+		910A739F170B7B21002A51E2 /* Pascal */ = {
+			isa = PBXGroup;
+			children = (
+				910A73B9170B7F8E002A51E2 /* Pascal.h */,
+				910A73BA170B7F8E002A51E2 /* Pascal.m */,
+				910A73BB170B7F8F002A51E2 /* Pascal.xib */,
+			);
+			name = Pascal;
+			sourceTree = "<group>";
+		};
+		914B7519170C7A3C00BD07E0 /* Moritz */ = {
+			isa = PBXGroup;
+			children = (
+				914B751A170C7A7000BD07E0 /* Moritz.h */,
+				914B751B170C7A7000BD07E0 /* Moritz.m */,
+				914B751C170C7A7000BD07E0 /* Moritz.xib */,
+			);
+			name = Moritz;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,10 +402,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				910A7348170B4761002A51E2 /* InfoPlist.strings in Resources */,
-				910A7350170B4761002A51E2 /* Default.png in Resources */,
-				910A7352170B4761002A51E2 /* Default@2x.png in Resources */,
-				910A7354170B4761002A51E2 /* Default-568h@2x.png in Resources */,
 				910A7357170B4761002A51E2 /* MainStoryboard.storyboard in Resources */,
+				910A737F170B49F1002A51E2 /* ViewController2.xib in Resources */,
+				910A7381170B4A90002A51E2 /* logo.png in Resources */,
+				910A7383170B66A8002A51E2 /* icon2.png in Resources */,
+				910A7385170B66AC002A51E2 /* icon.png in Resources */,
+				910A7392170B757D002A51E2 /* ViewController3.xib in Resources */,
+				910A7397170B7ACD002A51E2 /* Alexander.xib in Resources */,
+				910A73A4170B7E33002A51E2 /* Nikolai.xib in Resources */,
+				910A73AE170B7F56002A51E2 /* Carsten.xib in Resources */,
+				910A73B3170B7F67002A51E2 /* Martin.xib in Resources */,
+				910A73B8170B7F83002A51E2 /* Rene.xib in Resources */,
+				910A73BD170B7F8F002A51E2 /* Pascal.xib in Resources */,
+				914B751E170C7A7000BD07E0 /* Moritz.xib in Resources */,
+				919589A7170CCDC900C5BDA7 /* Default-568h@2x.png in Resources */,
+				919589A8170CCDD000C5BDA7 /* Default@2x.png in Resources */,
+				919589A9170CCDD800C5BDA7 /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +455,15 @@
 				910A734A170B4761002A51E2 /* main.m in Sources */,
 				910A734E170B4761002A51E2 /* AppDelegate.m in Sources */,
 				910A735A170B4761002A51E2 /* ViewController.m in Sources */,
+				910A737E170B49F1002A51E2 /* ViewController2.m in Sources */,
+				910A7391170B757D002A51E2 /* ViewController3.m in Sources */,
+				910A7396170B7ACD002A51E2 /* Alexander.m in Sources */,
+				910A73A3170B7E33002A51E2 /* Nikolai.m in Sources */,
+				910A73AD170B7F56002A51E2 /* Carsten.m in Sources */,
+				910A73B2170B7F67002A51E2 /* Martin.m in Sources */,
+				910A73B7170B7F83002A51E2 /* Rene.m in Sources */,
+				910A73BC170B7F8F002A51E2 /* Pascal.m in Sources */,
+				914B751D170C7A7000BD07E0 /* Moritz.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,7 +575,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Jailbreakguide/Jailbreakguide-Prefix.pch";
 				INFOPLIST_FILE = "Jailbreakguide/Jailbreakguide-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -395,6 +588,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Jailbreakguide/Jailbreakguide-Prefix.pch";
 				INFOPLIST_FILE = "Jailbreakguide/Jailbreakguide-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -453,6 +648,7 @@
 				910A7374170B4762002A51E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		910A7375170B4762002A51E2 /* Build configuration list for PBXNativeTarget "JailbreakguideTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +657,7 @@
 				910A7377170B4762002A51E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

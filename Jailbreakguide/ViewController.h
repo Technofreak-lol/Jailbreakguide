@@ -7,7 +7,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#include "ViewController2.h"
+#include "ViewController3.h"
+@interface ViewController : UIViewController{
+    
+IBOutlet UIWebView *webview;
+    
+}
+@property (weak, nonatomic) IBOutlet UIButton *showinfo;
+@property (weak, nonatomic) IBOutlet UIBarButtonItem *team;
+@property (weak, nonatomic) IBOutlet UIActivityIndicatorView *activityi;
+@property (weak, nonatomic) IBOutlet UIWebView *webby;
 
-@interface ViewController : UIViewController
 
 @end
+
+NSTimer *timey;
